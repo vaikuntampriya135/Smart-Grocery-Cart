@@ -115,8 +115,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons from [Lucide](https://lucide.dev)
 - UI inspiration from modern e-commerce platforms
 
-## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
 Project Link: [https://github.com/yourusername/smart-grocery-cart](https://github.com/yourusername/smart-grocery-cart)
